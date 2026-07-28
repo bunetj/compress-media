@@ -6,7 +6,7 @@ the **video** script is simple just creates a video_compressed efficiency okay q
 
 the **audio** script looks okay too. i almost never used it bc my audios seem optimal.
 
-**pdf** can be compressed by converting it to images and back to pdf idk if it's conventional or what. i didnt used it much and did not finish it.
+**pdf** can be compressed by converting it to images and back to pdf idk if it's conventional or what. i didnt use it much and did not finish it.
 
 * check sizes.txt for optimal sizes so as to avoid the neurotic battle for petty megabytes
 
@@ -42,7 +42,7 @@ how to compress images eg for a limited space and with much shit like useless sc
 - resize (50%) if >2/3k: `-resize -s 2 (or 3)`
 - copy by hand or don't use -replace, for a backup.
 - compress all (not valuable) images to jpg without thinking. up to 90% compression. no visible quality change if it's not sth delicate. avoid handwriting and similar lines in not very high resolution, small text, transparent bgs, anyth of small resoln already, anyth valuable and delicate.
-- convert png to bit8 (simplifies colors, visibly okay)
+- convert png to bit8 (simplifies colors, visibly okay). the least efficient ,like up to 20%
 
 
 ## alts
