@@ -44,7 +44,7 @@ how to compress images eg for a limited space and with much shit like useless sc
 - copy by hand or don't use -replace, for a backup.
 - compress all (not valuable) images to jpg without thinking. up to 90% compression. no visible quality change if it's not sth delicate. avoid handwriting and similar lines in not very high resolution, small text, transparent bgs, anyth of small resoln already, anyth valuable and delicate.
 - convert png to bit8 (simplifies colors, visibly okay). the least efficient ,like up to 20%
-- also you can make slideshows to compress images but it's not applicable to everything. use xnview + obs; shotcut or another video editor; the script that creates a slideshow out of images with the same resolution.
+- also you can make slideshows to compress images but it's not applicable to everything. use xnview slideshow + obs; shotcut or another video editor; the script that creates a slideshow out of images with the same resolution.
 
 
 
