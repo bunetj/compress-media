@@ -33,6 +33,8 @@ below is more info exclusively about the **images** script bc it's complicated
 
 note again there is no checker for whether it's optimal to compress the image it's all by hand with -s and -r etc i fucked up several times but i had a cloud backup or it was retrievable from the internet plus really i don't mind pixelating my childhood self a little.
 
+also you can make slideshows to compress images but it's not applicable to everything. use xnview + obs; shotcut or another video editor; the script that creates a slideshow out of images with the same resolution.
+
 
 ## a little guide
 
