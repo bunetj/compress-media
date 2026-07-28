@@ -1,0 +1,41 @@
+VIDEO
+
+1 min , 480p , video = 15–70 MB  
+1 min , 720p , video = 25–110 MB  
+
+10 min , 480p , video = 150–800 MB  
+10 min , 720p , video = 250–1400 MB  
+
+30 min , 480p , video = 0.45–2.4 GB  
+30 min , 720p , video = 0.8–4.2 GB  
+
+AUDIO
+
+1 min , audio , 128 kbps MP3/AAC = 1–2 MB  
+1 min , audio , 192 kbps MP3/AAC = 2–3 MB  
+
+10 min , audio , 128 kbps MP3/AAC = 10–15 MB  
+10 min , audio , 192 kbps MP3/AAC = 15–22 MB  
+
+30 min , audio , 128 kbps MP3/AAC = 30–45 MB  
+30 min , audio , 192 kbps MP3/AAC = 45–70 MB  
+
+TEXT
+
+1 min , PDF (mostly text) = 0.5–2 MB  
+10 min , PDF (text-heavy / many pages) = 2–12 MB  
+30 min , PDF (image-heavy / scanned) = 10–60 MB  
+
+.txt (~6k–60k characters) = 0.02–0.2 MB  
+.txt (~60k–600k characters) = 0.2–2 MB  
+.txt (~200k–2M characters) = 1–10 MB
+
+IMAGES
+
+1 photo, JPEG = about 0.3–2 MB (phone camera photos often land here)
+1 photo, PNG = about 1–10+ MB (can be very large if it’s not compressing well)
+1 photo, WEBP = about 0.1–1.2 MB (often smaller than JPEG for similar look)
+
+10 photos, JPEG = about 3–20 MB
+10 photos, PNG = about 10–100+ MB
+10 photos, WEBP = about 1–12 MB
